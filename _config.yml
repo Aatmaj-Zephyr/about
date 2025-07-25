@@ -13,7 +13,7 @@ title                    : "Aatmaj Mhatre"
 title_separator          : "-"
 name                     : &name "Aatmaj"
 description              : &description "Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me and think out of the box to walk on roads less travelled."
-url                      : "https://aatmaj-zephyr.github.io/about/
+url                      : "https://aatmaj-zephyr.github.io/about/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aatmaj-zephyr/about.github.io"
 
