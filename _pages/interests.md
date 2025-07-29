@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /interests/
+title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /md/
@@ -9,25 +9,31 @@ redirect_from:
 {% include toc %}
 
 
-### Research Interests
 
-Please feel free to reach me via mail in case there are any exciting projects in these feilds.
+Please feel free to reach me via mail in case there are any exciting projects in these areas:
 
 - Computer Vision
-  - Video processing
+
+  - Video Signal processing
   - Computer Vision for predictive maintainence
 - Machine Learning
-  - Optimizing Neural Networks
+
+  - Unsupervised ML
   - Bias in NLP
   - Network Analysis
+  - Reinforcement Learning
+  - ML in music
 - IoT
+
   - Development of smart static IoT devices
   - Deployment of AI ML on IoT devices
   - Drone Technology
 - Cybersecurity
+
   - Digital Forensics
   - Cyber Crime Investigation
   - Malware Analysis & Reverse Engineering
-  - Ethical Hacking
-  - All parts of Offensive security
-  - OSINT
+  - All parts of Offensive Security
+    - Ethical Hacking
+    - Malwares
+    - OSINT
