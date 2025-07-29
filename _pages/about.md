@@ -12,10 +12,11 @@ I have done B.Tech in Computer Engineering (2021-25) with an additional minor de
 
 I like to think of myself as making meaningful contributions to the world through innovative technology solutions, particularly in the area of Video Analytics and Computer Vision, where I am currently focusing on developing cutting-edge IoT solutions for industry problems. 🌟
 
-I like to build software projects 🧑🏽‍💻 on my own - my GitHub account is filled with all sorts of interesting projects across various domains! You can find more about my projects on my [resume](./files/Resume.pdf)
+I like to build software projects 🧑🏽‍💻 on my own - my GitHub account is filled with all sorts of interesting projects across various domains! You can find more about my projects on my [resume](./files/Resume.pdf).
 
 Apart from development, I also do research in various Computer Science related fields and have been able to publish four papers at IEEE conferences so far, in areas such as AI, Network Analysis, IoT and Software Engineering. 😃 You can check them [here](https://scholar.google.com/citations?user=ky53uMcAAAAJ).
 
+-
 
 ### Extra Curricular
 
