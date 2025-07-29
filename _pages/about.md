@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Aatmaj Mhatre, a PhD student at Computer Science and Engineering Department of Indian Institute of Technology, Bombay (IIT-B). My primary areas of interest are Computer Vision, Machine Learning, IoT and Cyber Security.
+I am Aatmaj Mhatre.
+
+I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me and think out of the box to walk on roads less travelled.
+
+Currently I am persuing PhD at Computer Science and Engineering Department of Indian Institute of Technology, Bombay (IIT-B). My primary areas of interest are Computer Vision, Machine Learning, IoT and Cyber Security.
 
 I have done B.Tech in Computer Engineering (2021-25) with an additional minor degree in Augmented and Virtual Reality (AR / VR) from K.J. Somaiya College of Engineering, Mumbai. During my B.Tech, I got exposure to lot of diverse fields that helped me shape up my career. I was research intern at [Indrones Solutions](https://indrones.com/), where we were building drones for military surveillance.
 
