@@ -6,11 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## Research Experiance
 
-
-### Research Experiance
-
-#### Computer Vision based Outdoor High Altitude GPS Denied Navigation for Unmanned Aerial Vehicles (UAV)
+### 1) Computer Vision based Outdoor High Altitude GPS Denied Navigation for Unmanned Aerial Vehicles (UAV)
 
 My interests have always been to see the nation progress through technology, always wanting to build products that would be beneficial for the whole society. I was fortunate enough to be able to work on such a project during my Final Year internship - developing a Visual Navigation system for border surveillance drones for the Indian Army. During this project, I was able to perform thorough research on various Computer Vision algorithms and successfully integrate the drone. After successful simulations, the drone was successfully tested in the real world through multiple test flights. Overall, it was a fun and enriching experience for me.
 
@@ -20,6 +18,9 @@ Apart from core algorithm development my work involved integration with Ardupilo
 
 [Slides](https://docs.google.com/presentation/d/15zvUMRg9-L20iOQY0Q1xf99T8qrDD07mRrowGr6XTFQ/edit?usp=sharing)
 
+### Publications
+
+You can check out my publications [here](https://scholar.google.com/citations?user=ky53uMcAAAAJ). If you want slides, supplimentory content or code for any of me papers, please feel free to drop a mail.
 
 ### Interests
 
