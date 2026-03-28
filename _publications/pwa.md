@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /Publications/pwa/
 author_profile: true
 title: "Progressive Web Applications, a New Way for Faster Testing of Mobile Application Products"

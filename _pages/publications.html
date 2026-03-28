@@ -9,42 +9,24 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<hr>
+<hr>
+
+
 {% include base_path %}
 {% for post in site.publications reversed %}
-  <div class="publication-item">
-    
-    <!-- Title -->
-    <h2><a href="./../{{post.permalink}}">{{ post.title }}</a></h2>
-    <!-- Main visible info -->
-    <p>
-      <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}<br>
-      <strong>About:</strong> {{ post.about }}<br>
-      
-      {% if post.doi %}
-        <a href="https://doi.org/{{ post.doi }}" target="_blank">URL</a> |
-      {% endif %}
-      
-      {% if post.pdf %}
-        <a href="{{ post.pdf }}" target="_blank">PDF</a> |
-      {% endif %}
-      
-      {% if post.ppt %}
-        <a href="{{ post.ppt }}" target="_blank">PPT</a> |
-      {% endif %}
-
-      {% if post.poster %}
-        <a href="{{ post.poster }}" target="_blank">Poster</a>
-      {% endif %}
   
-      {% if post.scholar %}
-        <a href="{{ post.scholar }}" target="_blank">Google Scholar</a> |
-      {% endif %}
+<h2>{{ post.title }}</h2>
+<p>
+  <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}<br>
+  <strong>About:</strong> {{ post.about }}<br>
+  
+  <a href="./../{{post.permalink}}">More Details</a>
 
-     
-    </p>
-    <hr>
+  
+</p>
+<hr>
 
-  </div>
 {% endfor %}
 
 

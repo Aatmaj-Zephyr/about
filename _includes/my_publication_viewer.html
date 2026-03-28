@@ -7,23 +7,23 @@
 <strong>Abstract:</strong> {{ page.abstract }}<br>
 <br>
 {% if page.doi %}
-<a href="https://doi.org/{{ page.doi }}" target="_blank">URL</a> |
+<a href="https://doi.org/{{ page.doi }}" target="_blank">[URL]</a> |
 {% endif %}
 
 {% if page.pdf %}
-<a href="{{ page.pdf }}" target="_blank">PDF</a> |
+<a href="{{ page.pdf }}" target="_blank">[PDF]</a> |
 {% endif %}
 
 {% if page.ppt %}
-<a href="{{ page.ppt }}" target="_blank">PPT</a> |
+<a href="{{ page.ppt }}" target="_blank">[PPT]</a> |
 {% endif %}
 
-{% if page.pageer %}
-<a href="{{ page.pageer }}" target="_blank">pageer</a>
+{% if page.poster %}
+<a href="{{ page.poster }}" target="_blank">[Poster]</a> |
 {% endif %}
 
 {% if page.scholar %}
-<a href="{{ page.scholar }}" target="_blank">Google Scholar</a> |
+<a href="{{ page.scholar }}" target="_blank">[Google Scholar]</a> 
 {% endif %}
     
 </p>
