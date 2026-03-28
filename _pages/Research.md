@@ -1,13 +1,11 @@
 ---
-permalink: /Research/
+permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-
 ## Interests
 
 Please feel free to reach me via mail in case there are any exciting projects in these areas:
@@ -17,8 +15,8 @@ Please feel free to reach me via mail in case there are any exciting projects in
   - Video Signal Processing
   - Computer Vision for IoT
   - Image Generation
-
 - Machine Learning
+
   - Unsupervised ML
   - Responsible and Ethical AI
   - Bias in AI
@@ -26,13 +24,13 @@ Please feel free to reach me via mail in case there are any exciting projects in
   - Reinforcement Learning
   - Multi Armed Bandits
   - ML in Music
-
 - IoT
+
   - Development of smart static IoT devices
   - Deployment of AI ML on IoT devices
   - Drone Technology
-
 - Cybersecurity
+
   - Digital Forensics
   - Cyber Crime Investigation
   - Malware Analysis & Reverse Engineering
@@ -40,7 +38,6 @@ Please feel free to reach me via mail in case there are any exciting projects in
     - Ethical Hacking
     - Malwares
     - OSINT
-
 
 ## Research Experience
 
@@ -55,4 +52,3 @@ Apart from core algorithm development my work involved integration with Ardupilo
 [\[Slides\]](https://docs.google.com/presentation/d/15zvUMRg9-L20iOQY0Q1xf99T8qrDD07mRrowGr6XTFQ/edit?usp=sharing)
 
 <hr>
-
