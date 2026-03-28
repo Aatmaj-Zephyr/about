@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Publications/toy/
+permalink: publications/toy/
 author_profile: true
 title: "Development of Active Toy for Increasing Eye-Hand Coordination and Reaction Time Among Toddlers"
 collection: publications

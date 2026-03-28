@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Publications/bias/
+permalink: publications/bias/
 author_profile: true
 title: "Detecting the presence of social bias in GPT-3.5 using association tests"
 collection: publications

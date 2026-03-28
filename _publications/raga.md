@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Publications/raga/
+permalink: publications/raga/
 author_profile: true
 title: "Classification of Indian Classical Music Ragas using Graph Theory"
 collection: publications
