@@ -10,27 +10,41 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+{% for post in site.publications reversed %}
+  <div class="publication-item">
+    
+    <!-- Title -->
+    <h2><a href="./../{{post.permalink}}">{{ post.title }}</a></h2>
+    <!-- Main visible info -->
+    <p>
+      <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}<br>
+      <strong>About:</strong> {{ post.about }}<br>
+      
+      {% if post.doi %}
+        <a href="https://doi.org/{{ post.doi }}" target="_blank">URL</a> |
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+      
+      {% if post.pdf %}
+        <a href="{{ post.pdf }}" target="_blank">PDF</a> |
+      {% endif %}
+      
+      {% if post.ppt %}
+        <a href="{{ post.ppt }}" target="_blank">PPT</a> |
+      {% endif %}
 
+      {% if post.poster %}
+        <a href="{{ post.poster }}" target="_blank">Poster</a>
+      {% endif %}
+  
+      {% if post.scholar %}
+        <a href="{{ post.scholar }}" target="_blank">Google Scholar</a> |
+      {% endif %}
+
+     
+    </p>
+    <hr>
+
+  </div>
+{% endfor %}
 
 
